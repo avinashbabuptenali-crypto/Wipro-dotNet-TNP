@@ -1,0 +1,1 @@
+This folder contains the hands-on exercises and practice programs completed as part of Milestone 1 of the Wipro TalentNext (TNP) training program. The programs are organized topic-wise to demonstrate my understanding of the core concepts covered during this milestone.
